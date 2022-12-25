@@ -1,0 +1,7 @@
+D:\HNURE\(2) Второй год\С та платформа .Nеt (С#Net)\Lab1\Lab1Anikaev\Lab1Anikaev\bin\Debug\Lab1Anikaev.exe.config
+D:\HNURE\(2) Второй год\С та платформа .Nеt (С#Net)\Lab1\Lab1Anikaev\Lab1Anikaev\bin\Debug\Lab1Anikaev.exe
+D:\HNURE\(2) Второй год\С та платформа .Nеt (С#Net)\Lab1\Lab1Anikaev\Lab1Anikaev\bin\Debug\Lab1Anikaev.pdb
+D:\HNURE\(2) Второй год\С та платформа .Nеt (С#Net)\Lab1\Lab1Anikaev\Lab1Anikaev\obj\Debug\Lab1Anikaev.csprojAssemblyReference.cache
+D:\HNURE\(2) Второй год\С та платформа .Nеt (С#Net)\Lab1\Lab1Anikaev\Lab1Anikaev\obj\Debug\Lab1Anikaev.csproj.CoreCompileInputs.cache
+D:\HNURE\(2) Второй год\С та платформа .Nеt (С#Net)\Lab1\Lab1Anikaev\Lab1Anikaev\obj\Debug\Lab1Anikaev.exe
+D:\HNURE\(2) Второй год\С та платформа .Nеt (С#Net)\Lab1\Lab1Anikaev\Lab1Anikaev\obj\Debug\Lab1Anikaev.pdb
